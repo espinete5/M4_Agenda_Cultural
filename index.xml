@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Agenda_Cultural_de_Terrassa_2023-2024 Comarca="Vallès Occidental" Municipi="Terrassa" Horari="12:00 AM" xmlns:xsi="dreceres_espais.xml">
+<!-- Poso els atributs "Comarca" i "Municipi", ja que tots es fan en la mateixa situació geogràfica -->
+<!-- Poso atribut horari ja que tots comencen a les 12:00 am-->
+    <!-- Ordeno l'agenda per mesos segons la data d'inici-->
+    <Mesos>
+        <!-- Començo mes Gener-->
+        <Gener>
+            <esdeveniment codi="20221000000">
+                <data_inici_i_fi>01/01/2023-31/01/2023</data_inici_i_fi>
+                <denominacio>Gener a la Factoria Cultural de Terrassa</denominacio>
+                <entrades>Abonamets i venda d'entrades de la Factoria Cultural de Terrassa.</entrades>
+                <espai>Factoria Cultural de Terrassa
+                    <telefon>937804122</telefon>
+                    <adreca>Rambla d'Ègara, 340</adreca>
+                </espai>
+                <ambit>Espectacles i música</ambit>
+                <categoria>Concerts, dansa i infantil</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230109010">
+                <data_inici_i_fi>01/01/2023-31/01/2023</data_inici_i_fi>
+                <denominacio>Gener de concerts a la Nova Jazz Cava</denominacio>
+                <entrades>Venda d'entrades online al web Jazz Terrassa</entrades>
+                <espai>Nova Jazz Cava
+                    <telefon>937805012</telefon>
+                    <adreca>Ptge. de Tete Montoliu, s/n</adreca>
+                </espai>
+                <ambit>Música</ambit>
+                <categoria>Concerts</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230123008">
+                <data_inici_i_fi>11/01/2023-28/02/2023</data_inici_i_fi>
+                <denominacio>Exposició "El bosc insòlit"</denominacio>
+                <entrades>Web del COAC</entrades>
+                <espai>COAC - Sala d'exposicions
+                    <telefon>937315980</telefon>
+                    <adreca>C. Colom, 114</adreca>
+                </espai>
+                <ambit>Arts-visuals</ambit>
+                <categoria>Exposicions</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20221000000">
+                <data_inici_i_fi>12/01/2023-20/04/2023</data_inici_i_fi>
+                <denominacio>Curs breu de guió cinematogràfic</denominacio>
+                <entrades>Inscripcions al web dels Amics de les Arts o trucant al 937 859 231 o presencialment a la secretaria d'Amics de les Arts i Joventuts Musicals.</entrades>
+                <espai>Amics de les Arts i Joventuts Musicals
+                    <telefon>937859231</telefon>
+                    <adreca>C. de Sant Pere, 46 / C. del Teatre, 2</adreca>
+                </espai>
+                <ambit>Llibres i lletres</ambit>
+                <categoria>Cursos</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230119016">
+                <data_inici_i_fi>21/01/2023-21/01/2023</data_inici_i_fi>
+                <denominacio>Quant temps em queda?</denominacio>
+                <entrades>Preu: 20€</entrades>
+                <espai>Teatre Principal
+                    <adreca>Pl. de Maragall, 2</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Teatre</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230120009">
+                <data_inici_i_fi>22/01/2023-02/04/2023</data_inici_i_fi>
+                <denominacio>Exposició “El jardí de la Frida”</denominacio>
+                <entrades>Entrada gratuïta</entrades>
+                <espai>CDMT
+                    <telefon>937315202</telefon>
+                    <adreca>C. de Salmerón, 25</adreca>
+                </espai>
+                <ambit>Arts-visuals</ambit>
+                <categoria>Exposicions</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230127015" codi2="20230000000">
+                <data_inici_i_fi>24/02/2023-14/01/2023</data_inici_i_fi>
+                <denominacio>Exposició "Els tres tombs"</denominacio>
+                <entrades>Entrada lliure</entrades>
+                <espai>La Factoria Cultural de Terrassa
+                    <adreca>Rambla d'Ègara, 340</adreca>
+                </espai>
+                <ambit>Arts-visuals</ambit>
+                <categoria>Exposicions</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230120006">
+                <data_inici_i_fi>26/01/2023-26/01/2023</data_inici_i_fi>
+                <denominacio>Exposició "Bombers 40 anys"</denominacio>
+                <entrades>Entrades i tarifes</entrades>
+                <espai>mNACTEC
+                    <adreca>Rambla d'Egara, 270</adreca>
+                </espai>
+                <ambit>Arts-visuals</ambit>
+                <categoria>Exposicions</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230119018">
+                <data_inici_i_fi>29/01/2023-29/01/2023</data_inici_i_fi>
+                <denominacio>Bianco</denominacio>
+                <entrades>Online</entrades>
+                <espai>Teatre Alegria
+                    <telefon>937887440</telefon>
+                    <adreca>C. de Gaudí, s/n</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Infantil i teatre</categoria>
+            </esdeveniment> 
+        </Gener>
+        <!-- Acabo mes Gener-->
+        <!-- Començo mes Febrer-->
+        <Febrer>
+            <esdeveniment codi="20230119026">
+                <data_inici_i_fi>01/02/2023-28/02/2023</data_inici_i_fi>
+                <denominacio>Febrer al Teatre Alegria</denominacio>
+                <entrades>Online</entrades>
+                <espai>Teatre Alegria
+                    <telefon>937887440</telefon>
+                    <adreca>C. de Gaudí, s/n</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Infantil, teatre i dansa</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230210039">
+                <data_inici_i_fi>01/02/2023-28/02/2023</data_inici_i_fi>
+                <denominacio>Febrer cultural als Amics de les Arts i Joventuts Musicals</denominacio>
+                <espai>Amics de les Arts i Joventuts Musicals
+                    <telefon>937859231</telefon>
+                    <adreca>C. de Sant Pere, 46</adreca>
+                </espai>
+                <ambit>Llibres i lletres, música i altres</ambit>
+                <categoria>Exposicions, conferencies, concerts i cursos</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230000000">
+                <data_inici_i_fi>01/02/2023-28/02/2023</data_inici_i_fi>
+                <denominacio>Febrer cultural als Amics de les Arts i Joventuts Musicals</denominacio>
+                <espai>Diferents espais</espai>
+                <ambit>Llibres i lletres, música i altres</ambit>
+                <categoria>Exposicions, conferencies, concerts i cursos</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230203019">
+                <data_inici_i_fi>01/02/2023-28/02/2023</data_inici_i_fi>
+                <denominacio>Febrer a la Factoria Cultural de Terrassa</denominacio>
+                <entrades>Abonamets i venda d'entrades de la Factoria Cultural de Terrassa</entrades>
+                <espai>Factoria Cultural de Terrassa
+                    <telefon>937804122</telefon>
+                    <adreca>Rambla d'Ègara, 340</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Concerts, dansa i teatre</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230120051">
+                <data_inici_i_fi>01/02/2023-28/02/2023</data_inici_i_fi>
+                <denominacio>Febrer de concerts a la Nova Jazz Cava</denominacio>
+                <entrades>Venda d'entrades online al web Jazz Terrassa.</entrades>
+                <espai>Nova Jazz Cava
+                    <telefon>937805012</telefon>
+                    <adreca>Ptge. de Tete Montoliu, s/n</adreca>
+                </espai>
+                <ambit>Música</ambit>
+                <categoria>Concerts</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230000000">
+                <data_inici_i_fi>03/02/2023-04/03/2023</data_inici_i_fi>
+                <denominacio>Jazz a prop</denominacio>
+                <entrades>Entrada lliure fins a completar l'aforament de cada espai</entrades>
+                <espai>Diferents espais</espai>
+                <ambit>Música</ambit>
+                <categoria>Cicles i concerts</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230119020">
+                <data_inici_i_fi>04/02/2023-04/02/2023</data_inici_i_fi>
+                <denominacio>Yerma</denominacio>
+                <entrades>Preu: 27€</entrades>
+                <espai>Teatre Principal
+                    <adreca>Pl. de Maragall, 2</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Teatre</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230119023">
+                <data_inici_i_fi>05/02/2023-05/02/2023</data_inici_i_fi>
+                <denominacio>El retorn</denominacio>
+                <entrades>Online</entrades>
+                <espai>Teatre Principal
+                    <adreca>Pl. de Maragall, 2</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Teatre</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20221000000">
+                <data_inici_i_fi>06/02/2023-24/04/2023</data_inici_i_fi>
+                <denominacio>Curs de reflexió i de pràctica poètica</denominacio>
+                <entrades>Al web o presencialment als Amics de les Arts i Joventuts Musicals. </entrades>
+                <espai>Amics de les Arts i Joventuts Musicals
+                    <telefon>937859231</telefon>
+                    <adreca>C. de Sant Pere, 46</adreca>
+                </espai>
+                <ambit>Llibres i lletres</ambit>
+                <categoria>Cursos</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230000000">
+                <data_inici_i_fi>06/02/2023-11/02/2023</data_inici_i_fi>
+                <denominacio>Sex Education Film Festival</denominacio>
+                <espai>Cinema Catalunya
+                    <adreca>C. de Sant Pere, 9</adreca>
+                </espai>
+                <ambit>Cinema</ambit>
+                <categoria>Festivals i mostres</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230202040">
+                <data_inici_i_fi>06/02/2023-11/02/2023</data_inici_i_fi>
+                <denominacio>Sex Education Film Festival</denominacio>
+                <espai>Teatre Principal
+                    <adreca>Pl. de Maragall, 2</adreca>
+                </espai>
+                <ambit>Cinema</ambit>
+                <categoria>Festivals i mostres</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230215021">
+                <data_inici_i_fi>11/02/2023-09/03/2023</data_inici_i_fi>
+                <denominacio>Exposició de pintura Anton Roca, Pintor</denominacio>
+                <espai>Amics de les Arts i Joventuts Musicals
+                    <telefon>937859231</telefon>
+                    <adreca>C. de Sant Pere, 46</adreca>
+                </espai>
+                <ambit>Arts-visuals</ambit>
+                <categoria>Exposicions</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230207001">
+                <data_inici_i_fi>11/02/2023-12/11/2023</data_inici_i_fi>
+                <denominacio>Exposició "Galí i Viusà, art, amor, exili"</denominacio>
+                <espai>Museu Castell Cartoixa
+                    <adreca>c. de Salmerón, 17</adreca>
+                </espai>
+                <ambit>Divulgacio</ambit>
+                <categoria>Exposicions</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230000000">
+                <data_inici_i_fi>13/02/2023-10/03/2023</data_inici_i_fi>
+                <denominacio>Exposició "La mort"</denominacio>
+                <entrades>L'entrada és lliure</entrades>
+                <espai>Amics de les Arts
+                    <telefon>937859231</telefon>
+                    <adreca>C. de Sant Pere, 46</adreca>
+                </espai>
+                <ambit>Arts-visuals</ambit>
+                <categoria>Exposicions</categoria>
+            </esdeveniment> 
+        </Febrer>
+        <!-- Acabo mes Febrer-->
+        <!-- Començo mes Març-->
+        <Març>
+            <esdeveniment codi="20230217048">
+                <data_inici_i_fi>01/03/2023-31/03/2023</data_inici_i_fi>
+                <denominacio>Març al Teatre Principal de Terrassa</denominacio>
+                <entrades>Online </entrades>
+                <espai>Teatre Principal
+                    <adreca>Pl. de Maragall, 2</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Teatre, dansa i infantil</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230303001">
+                <data_inici_i_fi>01/03/2023-31/03/2023</data_inici_i_fi>
+                <denominacio>Març al Cafè-Teatre L'Artista</denominacio>
+                <entrades>Online </entrades>
+                <espai>Cafè-Teatre L'Artista
+                    <adreca>Pg. de les Lletres, 10 A</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Teatre</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230313038">
+                <data_inici_i_fi>01/03/2023-30/03/2023</data_inici_i_fi>
+                <denominacio>Activitats cultural a l'Associació ACTES</denominacio>
+                <entrades>Entrada lliure</entrades>
+                <espai>Escola d'Enginyeria de Terrassa
+                    <telefon>937398200</telefon>
+                    <adreca>C. de Colom, 1</adreca>
+                </espai>
+                <ambit>Divulgació</ambit>
+                <categoria>Rutes i visites i conferencies</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230309022">
+                <data_inici_i_fi>01/03/2023-31/03/2023</data_inici_i_fi>
+                <denominacio>Març cultural als Amics de les Arts i Joventuts Musicals</denominacio>
+                <entrades>Abonamets i venda d'entrades de la Factoria Cultural de Terrassa.</entrades>
+                <espai>Diferents espais</espai>
+                <ambit>Llibres i lletres, música i altres</ambit>
+                <categoria>Exposicions, conferencies, concerts i cursos</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230000000">
+                <data_inici_i_fi>01/03/2023-31/03/2023</data_inici_i_fi>
+                <denominacio>Març a la Factoria Cultural de Terrassa</denominacio>
+                <entrades>Abonamets i venda d'entrades de la Factoria Cultural de Terrassa.</entrades>
+                <espai>La Factoria Cultural de Terrassa
+                    <telefon>937804122</telefon>
+                    <adreca>Rambla d'Ègara, 340</adreca>
+                </espai>
+                <ambit>Espectacles i música</ambit>
+                <categoria>Concerts, teatre i dansa</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230227006">
+                <data_inici_i_fi>01/03/2023-31/03/2023</data_inici_i_fi>
+                <denominacio>Març de concerts a la Nova Jazz Cava</denominacio>
+                <entrades>Online</entrades>
+                <espai>Nova Jazz Cava
+                    <telefon>937805012</telefon>
+                    <adreca>Ptge. de Tete Montoliu, s/n</adreca>
+                </espai>
+                <ambit>Música</ambit>
+                <categoria>Concerts</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230227006">
+                <data_inici_i_fi>01/03/2023-31/03/2023</data_inici_i_fi>
+                <denominacio>Març de concerts a la Nova Jazz Cava</denominacio>
+                <entrades>Online</entrades>
+                <espai>Nova Jazz Cava
+                    <telefon>937805012</telefon>
+                    <adreca>Ptge. de Tete Montoliu, s/n</adreca>
+                </espai>
+                <ambit>Música</ambit>
+                <categoria>Concerts</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230000000">
+                <data_inici_i_fi>02/03/2023-23/04/2023</data_inici_i_fi>
+                <denominacio>Exposició "El falsificador"</denominacio>
+                <entrades>Entrada lliure</entrades>
+                <espai>La Factoria Cultural de Terrassa
+                    <telefon>937804122</telefon>
+                    <adreca>Rambla d'Ègara, 340</adreca>
+                </espai>
+                <ambit>Arts-visuals</ambit>
+                <categoria>Exposicions</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230228024">
+                <data_inici_i_fi>08/03/2023-26/03/2023</data_inici_i_fi>
+                <denominacio>42 Festival Jazz Terrassa</denominacio>
+                <entrades>Online</entrades>
+                <espai>Sala Paüls Espai d'Art / Biblioteca Central / Teatre Alegria / Amics de les Arts / Casa de la Música / Cinema Catalunya / Parc Vallparadís / Conservatori de Terrassa / Ateneu Candela / MNACTEC i altres espais</espai>
+                <ambit>Música</ambit>
+                <categoria>Festivals i concerts</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230224005">
+                <data_inici_i_fi>19/03/2023-16/04/2023</data_inici_i_fi>
+                <denominacio>Exposició “Moguda Rock Terrassa 80's"</denominacio>
+                <entrades>Entrada gratuïta</entrades>
+                <espai>CDMT
+                    <telefon>937315202</telefon>
+                    <adreca>C. de Salmerón, 25</adreca>
+                </espai>
+                <ambit>Arts-visuals</ambit>
+                <categoria>Exposicions</categoria>
+            </esdeveniment>
+        </Març>
+        <!-- Acabo mes Març-->
+        <!-- Començo mes Abril-->
+        <Abril>
+            <esdeveniment codi="20230317041">
+                <data_inici_i_fi>15/04/2023-15/04/2023</data_inici_i_fi>
+                <denominacio>El pare</denominacio>
+                <entrades>Online - Preu: 27€</entrades>
+                <espai>Teatre Principal
+                    <adreca>Pl. de Maragall, 2</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Teatre</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230317045">
+                <data_inici_i_fi>16/04/2023-16/04/2023</data_inici_i_fi>
+                <denominacio>Sóc la teva FÍSICAH</denominacio>
+                <entrades>Preu: 9€</entrades>
+                <espai>Teatre Alegria
+                    <telefon>937887440</telefon>
+                    <adreca>C. de Gaudí, s/n</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Infantil</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20221117021">
+                <data_inici_i_fi>27/04/2023-06/08/2023</data_inici_i_fi>
+                <denominacio>Activitats al MNACTEC</denominacio>
+                <espai>mNACTEC
+                    <telefon>937368966</telefon>
+                    <adreca>Rbla. d'Ègara, 270</adreca>
+                </espai>
+                <ambit>Divulgació</ambit>
+                <categoria>Infantil i rutes i visites</categoria>
+            </esdeveniment>
+        </Abril>
+        <!-- Acabo mes Abril-->
+        <!-- Començo mes Maig-->
+        <Maig>
+            <esdeveniment codi="20230505015">
+                <data_inici_i_fi>01/05/2023-31/05/2023</data_inici_i_fi>
+                <denominacio>Maig de concerts a la Nova Jazz Cava</denominacio>
+                <entrades>Online</entrades>
+                <espai>Nova Jazz Cava
+                    <telefon>937805012</telefon>
+                    <adreca>Ptge. de Tete Montoliu, s/n</adreca>
+                </espai>
+                <ambit>Música</ambit>
+                <categoria>Concerts</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230504018">
+                <data_inici_i_fi>07/05/2023-06/05/2023</data_inici_i_fi>
+                <denominacio>XX Fira Modernista de Terrassa</denominacio>
+                <espai>Diferents espais</espai>
+                <ambit>Tradicional i popular i gastronomia</ambit>
+                <categoria>Fires i mercats</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230317049">
+                <data_inici_i_fi>14/05/2023-14/05/2023</data_inici_i_fi>
+                <denominacio>Hamlet.01</denominacio>
+                <entrades>Preu: 11 €</entrades>
+                <espai>Teatre Alegria
+                    <telefon>937887440</telefon>
+                    <adreca>C. de Gaudí, s/n</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Teatre</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230317058">
+                <data_inici_i_fi>20/05/2023-20/05/2023</data_inici_i_fi>
+                <denominacio>La trena</denominacio>
+                <entrades>Online - Preu: 20€</entrades>
+                <espai>Teatre Principal
+                    <adreca>Pl. de Maragall, 2</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Teatre</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230509019">
+                <data_inici_i_fi>23/05/2023-07/05/2023</data_inici_i_fi>
+                <denominacio>Exposició “Todo - nada - al mismo tiempo"</denominacio>
+                <entrades>Entrada gratuïta</entrades>
+                <espai>CDMT
+                    <telefon>937315202</telefon>
+                    <adreca>C. de Salmerón, 25</adreca>
+                </espai>
+                <ambit>Arts-visuals</ambit>
+                <categoria>Exposicions</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230616007">
+                <data_inici_i_fi>29/07/2023-25/05/2023</data_inici_i_fi>
+                <denominacio>Exposició "Agustí Penadès"</denominacio>
+                <entrades>Entrada lliure</entrades>
+                <espai>La Factoria Cultural de Terrassa
+                    <telefon>937804122</telefon>
+                    <adreca>Rambla d'Ègara, 340</adreca>
+                </espai>
+                <ambit>Arts-visuals</ambit>
+                <categoria>Exposicions</categoria>
+            </esdeveniment>
+        </Maig>
+        <!-- Acabo mes Maig-->
+        <!-- Començo mes Juny-->
+        <Juny>
+            <esdeveniment codi="20230526028">
+                <data_inici_i_fi>01/06/2023-30/06/2023</data_inici_i_fi>
+                <denominacio>Juny al Cafè-Teatre L'Artista</denominacio>
+                <entrades>Online</entrades>
+                <espai>Cafè-Teatre L'Artista
+                    <adreca>Pg. de les Lletres, 10 A</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Teatre</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230523001">
+                <data_inici_i_fi>01/06/2023-30/06/2023</data_inici_i_fi>
+                <denominacio>Juny a la Factoria Cultural de Terrassa</denominacio>
+                <entrades>Abonamets i venda d'entrades de la Factoria Cultural de Terrassa.</entrades>
+                <espai>Factoria Cultural de Terrassa
+                    <telefon>937804122</telefon>
+                    <adreca>Rambla d'Ègara, 340</adreca>
+                </espai>
+                <ambit>Música i espectacles</ambit>
+                <categoria>Concerts, dansa i teatre</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230529015">
+                <data_inici_i_fi>01/06/2023-30/06/2023</data_inici_i_fi>
+                <denominacio>Juny de concerts a la Nova Jazz Cava</denominacio>
+                <entrades>Online</entrades>
+                <espai>Nova Jazz Cava
+                    <telefon>937805012</telefon>
+                    <adreca>Ptge. de Tete Montoliu, s/n</adreca>
+                </espai>
+                <ambit>Música</ambit>
+                <categoria>Concerts</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230317049">
+                <data_inici_i_fi>02/06/2023-02/06/2023</data_inici_i_fi>
+                <denominacio>DASC 2023: Portes obertes i assaig especial als Minyons de Terrassa</denominacio>
+                <espai>Local dels Minyons
+                    <adreca>C. del Teatre, 4</adreca>
+                </espai>
+                <ambit>Tradicional i popular</ambit>
+                <categoria>Rutes i visites</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230515011">
+                <data_inici_i_fi>02/06/2023-04/06/2023</data_inici_i_fi>
+                <denominacio>SetDTeatre</denominacio>
+                <entrades>Online</entrades>
+                <espai>Teatre Principal
+                    <adreca>Pl. de Maragall, 2</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Teatre</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230518021">
+                <data_inici_i_fi>03/06/2023-03/06/2023</data_inici_i_fi>
+                <denominacio>DASC 2023: Portes obertes a la Coral Els Amics</denominacio>
+                <espai>Societat Coral Els Amics
+                    <adreca>C. del Pantà, 57</adreca>
+                </espai>
+                <ambit>Música</ambit>
+                <categoria>Rutes i visites</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230518020">
+                <data_inici_i_fi>03/06/2023-03/06/2023</data_inici_i_fi>
+                <denominacio>DASC 2023: Portes obertes i activitats a Amunt i Crits</denominacio>
+                <espai>Agrupació Folklòrica Amunt I Crits
+                    <adreca>C. del Pantà, 57</adreca>
+                </espai>
+                <ambit>Tradicional i popular</ambit>
+                <categoria>Rutes i visites i sardanes</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230511008">
+                <data_inici_i_fi>04/06/2023-04/06/2023</data_inici_i_fi>
+                <denominacio>DASC 2023: Portes obertes a la colla del Bitxo del Torrent Mitger</denominacio>
+                <espai>Colla del Bitxo del Torrent Mitgers
+                    <adreca>Pl. de la Cultura</adreca>
+                </espai>
+                <ambit>Tradicional i popular</ambit>
+                <categoria>Rutes i visites</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230703027">
+                <data_inici_i_fi>30/06/2023-05/07/2023</data_inici_i_fi>
+                <denominacio>Festa Major de Terrassa</denominacio>
+                <espai>Espais diferents</espai>
+                <ambit>Tradicional i popular, divulgació i espectacles</ambit>
+                <categoria>Festes i infantil</categoria>
+            </esdeveniment>
+        </Juny>
+        <!-- Acabo mes Juny-->
+        <!-- Començo mes Juliol-->
+        <Juliol>
+            <esdeveniment codi="20230628071">
+                <data_inici_i_fi>01/07/2023-30/09/2023</data_inici_i_fi>
+                <denominacio>Aquest estiu viu el Patrimoni</denominacio>
+                <espai>mNACTEC
+                    <telefon>937368966</telefon>
+                    <adreca>Rbla. d'Ègara, 270</adreca>
+                </espai>
+                <ambit>Divulgació, espectacles i música</ambit>
+                <categoria>Infantil, rutes i visites, exposicions, concerts i teatre</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230619026">
+                <data_inici_i_fi>01/07/2023-31/07/2023</data_inici_i_fi>
+                <denominacio>Juliol al Cafè-Teatre L'Artista</denominacio>
+                <entrades>Online del Cafè-Teatre L'Artista</entrades>
+                <espai>Cafe-Teatre l'Artista
+                    <adreca>Pg. de les Lletres, 10a</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Teatre</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230529026">
+                <data_inici_i_fi>22/07/2023-22/07/2023</data_inici_i_fi>
+                <denominacio>Los extranjeros</denominacio>
+                <entrades>Entrada gratuïta - Reserva d'entrades online</entrades>
+                <espai>Teatre Principal
+                    <adreca>Pl. de Maragall, 2</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Dansa</categoria>
+            </esdeveniment>
+        </Juliol>
+        <!-- Acabo mes Juliol-->
+        <!-- Començo mes Agost-->
+        <Agost>
+            <esdeveniment codi="20221117021">
+                <data_inici_i_fi>03/08/2023-31/10/2023</data_inici_i_fi>
+                <denominacio>Activitats al MNACTEC</denominacio>
+                <espai>mNACTEC
+                    <telefon>937368966</telefon>
+                    <adreca>Rbla. d'Ègara, 270</adreca>
+                </espai>
+                <ambit>Divulgació</ambit>
+                <categoria>Infantil i rutes i visites</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230808004">
+                <data_inici_i_fi>08/08/2023-12/11/2023</data_inici_i_fi>
+                <denominacio>Exposició "Esport, indústria i modernitat</denominacio>
+                <entrades>Entrades i tarifes</entrades>
+                <espai>mNACTEC
+                    <telefon>937368966</telefon>
+                    <adreca>Rbla. d'Ègara, 270</adreca>
+                </espai>
+                <ambit>Arts-visuals</ambit>
+                <categoria>Exposicions</categoria>
+            </esdeveniment>
+        </Agost>
+        <!-- Acabo mes Agost-->
+        <!-- Començo mes Septembre-->
+        <Septembre>
+            <esdeveniment codi="20230908021">
+                <data_inici_i_fi>01/09/2023-30/09/2023</data_inici_i_fi>
+                <denominacio>Setembre a la Nova Jazz Cava</denominacio>
+                <entrades>Online</entrades>
+                <espai>Nova Jazz Cava
+                    <adreca>Ptge. de Tete Montoliu, s/n</adreca>
+                </espai>
+                <ambit>Música</ambit>
+                <categoria>Concerts</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230915004">
+                <data_inici_i_fi>01/09/2023-30/09/2023</data_inici_i_fi>
+                <denominacio>Setembre a la Sala Fred Astaire</denominacio>
+                <entrades>Online a la Web</entrades>
+                <espai>Sala Fred Astaire
+                    <telefon>937808217</telefon>
+                    <adreca>C. de Sant Francesc, 52</adreca>
+                </espai>
+                <ambit>Música</ambit>
+                <categoria>Concerts</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230915012">
+                <data_inici_i_fi>01/09/2023-30/09/2023</data_inici_i_fi>
+                <denominacio>Setembre a la Sala Rasa 64</denominacio>
+                <entrades>Online a la Web</entrades>
+                <espai>Sala Rasa 64
+                    <telefon>931427516</telefon>
+                    <adreca>C. de la Rasa, 64</adreca>
+                </espai>
+                <ambit>Música</ambit>
+                <categoria>Concerts</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230906059">
+                <data_inici_i_fi>01/09/2023-30/09/2023</data_inici_i_fi>
+                <denominacio>Setembre a les Cases de la Música</denominacio>
+                <espai>Vesc, S.L.
+                    <adreca>C. de Sant Gaietà, 76</adreca>
+                </espai>
+                <ambit>Música</ambit>
+                <categoria>Concerts</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230731006">
+                <data_inici_i_fi>01/09/2023-30/09/2023</data_inici_i_fi>
+                <denominacio>Setembre a la Factoria Cultural de Terrassa</denominacio>
+                <entrades>Abonamets i venda d'entrades de la Factoria Cultural de Terrassa.</entrades>
+                <espai>Factoria Cultural de Terrassa
+                    <telefon>937804122</telefon>
+                    <adreca>Rambla d'Ègara, 340</adreca>
+                </espai>
+                <ambit>Espectacles i música</ambit>
+                <categoria>Concerts, teatre i dansa</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230906005">
+                <data_inici_i_fi>13/09/2023-21/09/2023</data_inici_i_fi>
+                <denominacio>Latent Festival</denominacio>
+                <entrades>Més informació sobre el preu de les entrades al web del Latent</entrades>
+                <espai>Diversos espais</espai>
+                <ambit>Divulgació</ambit>
+                <categoria>Festivals i mostres</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230810002">
+                <data_inici_i_fi>14/09/2023-29/10/2023</data_inici_i_fi>
+                <denominacio>Exposició "Premis Laus de Disseny Gràfic i Comunicació Visual"</denominacio>
+                <entrades>Entrada lliure</entrades>
+                <espai>La Factoria Cultural de Terrassa
+                    <telefon>937804122</telefon>
+                    <adreca>Rambla d'Ègara, 340</adreca>
+                </espai>
+                <ambit>Arts-visuals</ambit>
+                <categoria>Exposicions</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230905012">
+                <data_inici_i_fi>22/09/2023-24/09/2023</data_inici_i_fi>
+                <denominacio>III Festival de Màgia de Terrassa</denominacio>
+                <espai>Cafè-Teatre L'Artista
+                    <adreca>Pg. de les Lletres, 10a</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Infantil i conferencies</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230906008">
+                <data_inici_i_fi>25/09/2023-25/09/2023</data_inici_i_fi>
+                <denominacio>Conferència "Insectes que han canviat la història de la humanitat"</denominacio>
+                <entrades>Entrada lliure</entrades>
+                <espai>Sala d'Actes de l'ESEIAAT-UPC
+                    <adreca>C. de Colom, 1-3</adreca>
+                </espai>
+                <ambit>Divulgació</ambit>
+                <categoria>Conferencies</categoria>
+            </esdeveniment>
+        </Septembre>
+        <!-- Acabo mes Septembre-->
+        <!-- Començo mes Octubre-->
+        <Octubre>
+            <esdeveniment codi="20230908022">
+                <data_inici_i_fi>01/10/2023-31/10/2023</data_inici_i_fi>
+                <denominacio>Octubre a la Nova Jazz Cava</denominacio>
+                <entrades>Online</entrades>
+                <espai>Nova Jazz Cava
+                    <adreca>Ptge. de Tete Montoliu, s/n</adreca>
+                </espai>
+                <ambit>Música</ambit>
+                <categoria>Concerts</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230724011">
+                <data_inici_i_fi>01/10/2023-31/10/2023</data_inici_i_fi>
+                <denominacio>Octubre al Teatre Alegria</denominacio>
+                <entrades>Online del Terrassa Arts Escèniques</entrades>
+                <espai>Teatre Alegria
+                    <telefon>937887440</telefon>
+                    <adreca>C. de Gaudí, s/n</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Teatre e infantil</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230915008">
+                <data_inici_i_fi>01/10/2023-31/10/2023</data_inici_i_fi>
+                <denominacio>Octubre a la Sala Fred Astaire</denominacio>
+                <entrades>Venda online d'entrades al web</entrades>
+                <espai>Sala Fred Astaire
+                    <telefon>937808217</telefon>
+                    <adreca>C. de Sant Francesc, 52</adreca>
+                </espai>
+                <ambit>Música</ambit>
+                <categoria>Concerts</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230915013">
+                <data_inici_i_fi>01/10/2023-31/10/2023</data_inici_i_fi>
+                <denominacio>Octubre a la Sala Rasa 64</denominacio>
+                <entrades>Venda online d'entrades al web</entrades>
+                <espai>Sala Rasa 64
+                    <telefon>931427516</telefon>
+                    <adreca>C. de Sant Francesc, 52</adreca>
+                </espai>
+                <ambit>Música</ambit>
+                <categoria>Concerts</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230906060">
+                <data_inici_i_fi>01/10/2023-31/10/2023</data_inici_i_fi>
+                <denominacio>Octubre a les Cases de la Música</denominacio>
+                <espai>Vesc, S.L.
+                    <adreca>C. de Sant Gaietà, 76</adreca>
+                </espai>
+                <ambit>Música</ambit>
+                <categoria>Concerts</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230919002">
+                <data_inici_i_fi>01/10/2023-31/10/2023</data_inici_i_fi>
+                <denominacio>Octubre al Cafè-Teatre L'Artista</denominacio>
+                <entrades>Online del Cafè-Teatre L'Artista</entrades>
+                <espai>Cafè-Teatre L'Artista
+                    <adreca>Pg. de les Lletres, 10 A</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Teatre</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230915011">
+                <data_inici_i_fi>01/10/2023-31/10/2023</data_inici_i_fi>
+                <denominacio>Octubre a la Factoria Cultural de Terrassa</denominacio>
+                <entrades>A la Factoria Cultural de Terrassa</entrades>
+                <espai>Factoria Cultural de Terrassa
+                    <telefon>93 7804122</telefon>
+                    <adreca>Rambla d'Ègara, 340</adreca>
+                </espai>
+                <ambit>Espectacles i música</ambit>
+                <categoria>Teatre, dansa i circ</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230724019">
+                <data_inici_i_fi>15/10/2023-15/10/2023</data_inici_i_fi>
+                <denominacio>El cos més bonic que s'haurà trobat mai en aquest lloc</denominacio>
+                <entrades>Online - Preu 20€</entrades>
+                <espai>Teatre Principal
+                    <adreca>Pl. de Maragall, 2</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Teatre</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20230724022">
+                <data_inici_i_fi>20/10/2023-11/11/2023</data_inici_i_fi>
+                <denominacio>Cicle jove "Divendres, faves tendres"</denominacio>
+                <espai>Teatre Principal
+                    <adreca>Pl. de Maragall, 2</adreca>
+                </espai>
+                <ambit>Espectacles i música</ambit>
+                <categoria>Teatre</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20231011020">
+                <data_inici_i_fi>21/10/2023-21/10/2023</data_inici_i_fi>
+                <denominacio>Instruccions per fer-se feixista</denominacio>
+                <entrades>Online - Preu 16,50€</entrades>
+                <espai>Teatre Alegria
+                    <telefon>937887440</telefon>
+                    <adreca>C. de Gaudí, s/n</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Teatre</categoria>
+            </esdeveniment>
+        </Octubre>
+        <!-- Acabo mes Octubre-->
+        <!-- Començo mes Novembre-->
+        <Novembre>
+            <esdeveniment codi="20231016012">
+                <data_inici_i_fi>01/11/2023-30/11/2023</data_inici_i_fi>
+                <denominacio>Novembre a les Cases de la Música</denominacio>
+                <entrades>Informació i venda</entrades>
+                <espai>Vesc, S.L.
+                    <adreca>C. de Sant Gaietà, 76</adreca>
+                </espai>
+                <ambit>Música</ambit>
+                <categoria>Concerts</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20231011027">
+                <data_inici_i_fi>01/11/2023-30/11/2023</data_inici_i_fi>
+                <denominacio>Novembre al Teatre Principal de Terrassa</denominacio>
+                <espai>Teatre Principal
+                    <adreca>Pl. de Maragall, 2</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Infantil i teatre</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20231016057">
+                <data_inici_i_fi>04/11/2023-03/12/2023</data_inici_i_fi>
+                <denominacio>Àlbum</denominacio>
+                <espai>Diferents espais</espai>
+                <ambit>Arts-visuals</ambit>
+                <categoria>Festivals i exposicions</categoria>
+            </esdeveniment>
+            <esdeveniment codi="20231011023">
+                <data_inici_i_fi>04/11/2023-04/11/2023</data_inici_i_fi>
+                <denominacio>Els ulls de l'etern germà</denominacio>
+                <entrades>Online - Preu: 16,50€</entrades>
+                <espai>Teatre Alegria
+                    <telefon>937887440</telefon>
+                    <adreca>C. de Gaudí, s/n</adreca>
+                </espai>
+                <ambit>Espectacles</ambit>
+                <categoria>Teatre</categoria>
+            </esdeveniment>
+        </Novembre>
+        <!-- Acabo mes Novembre-->
+    </Mesos>
+    <!-- Fins aqui els mesos-->
+<!-- Fins aqui l'agenda-->
+</Agenda_Cultural_de_Terrassa_2023-2024>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Dreceres de espais-->
+<espai>
+    <Teatre_Alegria>
+        <adreça>C. de Gaudí, s/n</adreça>
+        <telefon>937887440</telefon>
+    </Teatre_Alegria>
+    <MNACTEC>
+        <adreça>Rambla d'Ègara, 270</adreça>
+        <telefon>937368966</telefon>
+    </MNACTEC>
+    <Factoria_Cultural>
+        <adreça>Rambla d'Ègara, 340</adreça>
+        <telefon>937804122</telefon>
+    </Factoria_Cultural>
+    <UPC>
+        <adreça>C. de Colom, 1</adreça>
+        <telefon>937398200</telefon>
+    </UPC>
+    <Teatre_Principal>
+        <adreça>Pl. de Maragall, 2</adreça>
+    </Teatre_Principal>
+    <Amics_de_les_Arts>
+        <adreça>C. de Sant Pere, 46</adreça>
+        <telefon>937859231</telefon>
+    </Amics_de_les_Arts>
+    <Colla_del_Bitxo>
+        <adreça>Pl. de la Cultura</adreça>
+    </Colla_del_Bitxo>
+    <Societat_Coral>
+        <adreça>C. del Pantà, 57</adreça>
+    </Societat_Coral>
+    <Minyons>
+        <adreça>C. del Teatre, 4</adreça>
+    </Minyons>
+    <COAC>
+        <adreça>C. Colom, 114</adreça>
+        <telefon>937315980</telefon>
+    </COAC>
+    <CDMT>
+        <adreça>C. de Salmerón, 25</adreça>
+        <telefon>937315202</telefon>
+    </CDMT>
+    <Museu_Castell_Cartoixa>
+        <adreça>c. de Salmerón, 17</adreça>
+    </Museu_Castell_Cartoixa>
+    <Nova_Jazz_Cava>
+        <adreça>Ptge. de Tete Montoliu, s/n</adreça>
+        <telefon>937805012</telefon>
+    </Nova_Jazz_Cava>
+    <Cafe_Teatre_Artista>
+        <adreça>Pg. de les Lletres, 10a</adreça>
+        <telefon></telefon>
+    </Cafe_Teatre_Artista>
+    <Vesc_SL>
+        <adreça>C. de Sant Gaietà, 76</adreça>
+        <telefon></telefon>
+    </Vesc_SL>
+    <Sala_Fred_Astaire>
+        <adreça>C. de Sant Francesc, 52</adreça>
+        <telefon>937808217</telefon>
+    </Sala_Fred_Astaire>
+    <Sala_Rasa_64>
+        <adreça>C. de la Rasa, 64</adreça>
+        <telefon>931427516</telefon>
+    </Sala_Rasa_64>
+    <Cinema_Catalunya>
+        <adreça>C. de Sant Pere, 9</adreça>
+    </Cinema_Catalunya>
+</espai>
+<!-- Acabo dreceres de espais-->

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Dreceres ambits i categories -->
+<ambit_i_categoria>
+    <musica>
+        <concerts></concerts>
+        <teatre></teatre>
+        <dansa></dansa>
+        <circ></circ>
+        <rutes_i_visites></rutes_i_visites>
+        <cicles></cicles>
+    </musica>
+    <espectacles>
+        <teatre></teatre>
+        <infantil></infantil>
+        <dansa></dansa>
+        <circ></circ>
+    </espectacles>
+    <divulgacio>
+        <exposicions></exposicions>
+        <conferencies></conferencies>
+        <rutes_i_visites></rutes_i_visites>
+        <infantil></infantil>
+        <festivals_i_mostres></festivals_i_mostres>
+        <festes></festes>
+    </divulgacio>
+    <llibres_i_lletres>
+        <cursos></cursos>
+    </llibres_i_lletres>
+    <arts_visuals>
+        <exposicions></exposicions>
+    </arts_visuals>
+    <tradicional_i_popular>
+        <rutes_i_visites></rutes_i_visites>
+        <sardanes></sardanes>
+        <festes></festes>
+    </tradicional_i_popular>
+    <cinema>
+        <festivals_i_mostres></festivals_i_mostres>
+    </cinema>
+    <gastronomia></gastronomia>
+</ambit_i_categoria>
+<!-- Acabo dreceres ambits i categories-->
